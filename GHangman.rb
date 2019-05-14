@@ -1,4 +1,4 @@
-#Copyright (c) 2019 ChuckyOtaku Corporation.
+#Copyright (c) 2019 ChuckyOtaku.
 
 require "gosu"
 
