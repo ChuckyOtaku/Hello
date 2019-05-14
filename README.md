@@ -1,5 +1,5 @@
 # Hello
-## Test rep that is used for storing ruby docs.
+## Test rep used for storing ruby docs. Working With Gosu library
 
 Added a handy dandy gosu in ruby template
 
